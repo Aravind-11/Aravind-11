@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Aravindhan, Final Year Undergrad at NIT Trichy </div>  
   
-A passionate Machine Learning Researcher 👨‍💻 pursuing projects in the field of Deep Reinforcement Learning and Robotics 🤖.
+<div align="center">A passionate Machine Learning Researcher 👨‍💻 pursuing projects in the field of Deep Reinforcement Learning and Robotics 🤖.
 
 
 
