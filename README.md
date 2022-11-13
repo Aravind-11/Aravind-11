@@ -1,4 +1,4 @@
-## Adios!
+## Adios😄!
 
 I'm a passionate machine learning researcher pursuing projects in the field of reinforcement learning and robotics. 
 
