@@ -5,7 +5,8 @@ I'm a passionate machine learning researcher pursuing projects in the field of r
 My current focus:
 
 -Safety in autonomous systems 
--Application of reinforcement learning in control systems. 
+
+-Application of reinforcement learning in control systems
 
 <!--
 **Aravind-11/Aravind-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
