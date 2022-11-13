@@ -18,8 +18,7 @@
 
 ### Apart from work
 - Auto Racing (I'm a licenced auto racing driver)
-- Badminton (Played in the district level)
-- Piano (Classical Music)
+- Badminton 
 
 
 ## Reach out to me  
