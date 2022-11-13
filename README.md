@@ -20,6 +20,11 @@
 
 <br/>  
 
+### Other Interests 
+- Auto racing (I'm a licenced auto racing driver)
+- Basketball and Badminton
+- Piano (Classical Music)
+
 
 
 ## Connect with me  
