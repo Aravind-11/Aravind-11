@@ -3,8 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Aravindhan, a final year student at NIT Trichy. Passionate Machine Learning Researcher 👨‍💻 pursuing projects in the field of Deep Reinforcement Learning and Robotics 🤖. </div>  
+### <div align="center">I'm Aravindhan, final year student at NIT Trichy. </div>  
   
+I'm a passionate Machine Learning Researcher 👨‍💻 pursuing projects in the field of Deep Reinforcement Learning and Robotics 🤖.
 
 
 
