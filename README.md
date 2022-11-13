@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aravindhan, a Passionate Machine Learning Researcher 👨‍💻 pursuing projects in the field of Reinforcement Learning and Robotics 🤖. </div>  
+### <div align="center">I'm Aravindhan, a final year student at NIT Trichy. Passionate Machine Learning Researcher 👨‍💻 pursuing projects in the field of Deep Reinforcement Learning and Robotics 🤖. </div>  
   
 
 
@@ -20,9 +20,9 @@
 
 <br/>  
 
-### Other Interests 
-- Auto racing (I'm a licenced auto racing driver)
-- Basketball and Badminton
+### Apart from work
+- Auto Racing (I'm a licenced auto racing driver)
+- Badminton (Played in the district level)
 - Piano (Classical Music)
 
 
