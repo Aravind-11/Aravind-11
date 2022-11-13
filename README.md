@@ -1,4 +1,6 @@
-### Hi there 👋
+## Adios!
+
+### I'm a passionate machine learning researcher pursuing projects in the field of reinforcement learning and robotics. My current focus is on safety in autonomous systems and application of reinforcement learning in control systems. 
 
 <!--
 **Aravind-11/Aravind-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
