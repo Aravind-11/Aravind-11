@@ -13,15 +13,13 @@ I'm a passionate Machine Learning Researcher 👨‍💻 pursuing projects in th
 - Collision Avoidance 🚑  
 - Aerial Robotics 🛩️  
 - Reinforcement Learning in Robotics 🤖  
-  
-
+ 
 <br/>  
 
 ### Apart from work
 - Auto Racing (I'm a licenced auto racing driver)
 - Badminton (Played in the district level)
 - Piano (Classical Music)
-
 
 
 ## Connect with me  
