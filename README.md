@@ -11,11 +11,7 @@ I'm a passionate Machine Learning Researcher 👨‍💻 pursuing projects in th
 
 ### Topics of Interest  
 - Collision Avoidance 🚑  
-  
-
 - Aerial Robotics 🛩️  
-  
-
 - Reinforcement Learning in Robotics 🤖  
   
 
