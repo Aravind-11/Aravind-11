@@ -14,7 +14,7 @@ I'm a passionate Machine Learning Researcher 👨‍💻 pursuing projects in th
 - Aerial Robotics 🛩️  
 - Reinforcement Learning in Robotics 🤖  
  
-<br/>  
+
 
 ### Apart from work
 - Auto Racing (I'm a licenced auto racing driver)
