@@ -1,5 +1,11 @@
 ## Adios! 😄
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 I'm a passionate machine learning researcher pursuing projects in the field of reinforcement learning and robotics. 
 
 My current focus:
