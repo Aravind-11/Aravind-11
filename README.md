@@ -17,7 +17,7 @@
 
 
 ### Apart from work
-- Auto Racing (I'm a licenced auto racing driver)
+- Auto Racing (I'm a licenced auto racing driver, member at Madras Motorsport Academy)
 - Badminton 
 
 
