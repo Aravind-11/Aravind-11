@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aravindhan, a passionate machine learning researcher 👨‍💻 pursuing projects in the field of reinforcement learning and robotics 🤖. </div>  
+### <div align="center">I'm Aravindhan, a Passionate Machine Learning Researcher 👨‍💻 pursuing projects in the field of Reinforcement Learning and Robotics 🤖. </div>  
   
 
 
@@ -28,7 +28,7 @@
 
 ### Libraries  
 <div align="center">  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="10" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 </div>
@@ -51,7 +51,6 @@
 
 
 
-</td></tr></table>  
 
 <br/>  
 
