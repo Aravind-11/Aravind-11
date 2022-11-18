@@ -9,10 +9,11 @@
 
 
 
-### Topics of Interest  
-- Collision Avoidance 🚑  
-- Aerial Robotics 🛩️  
-- Reinforcement Learning in Robotics 🤖  
+### Questions I'm trying to find solutions on   
+- How to apply RL in a real-time setting?
+- How to build environments that reflects the real world to train the RL agents on?
+- How to make agents coordinate and compete when they are left in the actual world?
+- Reality Gap : How to train the agents to take optimal actions in both the simulators and the real world?
  
 
 
