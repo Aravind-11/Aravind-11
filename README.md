@@ -10,8 +10,9 @@
 
 
 ### Questions I'm trying to find solutions on   
-- Reality Gap: How to apply RL in a real-time setting and train agents to take optimal actions in both the simulators and the real world??
-- How to build environments that reflects the real world to train the RL agents on?
+- How to apply RL in a real-time setting?
+- Reality Gap : How to train agents to take optimal actions in both the simulators and the real world??
+- How to build environments that reflects the real time scenarios to train the RL agents on?
 - How to make agents coordinate and compete when they are left in the actual world?
  
 
