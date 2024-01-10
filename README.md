@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Aravindhan, I like to make machines learn </div>  
   
-<div align="center">A passionate Machine Learning Researcher 👨‍💻 pursuing projects in the field of Deep Reinforcement Learning and Robotics 🤖. </div>  
+<div align="center">A passionate Machine Learning Enthusiast 👨‍💻 pursuing projects in the field of Deep Learning and Robotics 🤖. </div>  
 
 
 
