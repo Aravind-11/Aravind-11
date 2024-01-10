@@ -10,11 +10,10 @@
 
 
 ### Questions I'm interested in   
-- How to apply RL in a real-time setting?
+- How to apply Deep Learning in a real-time setting?
 - Reality Gap : How to train agents to take optimal actions in both the simulators and the real world?
-- How to build environments that reflects the real time scenarios to train the RL agents on?
-- How to make agents coordinate and compete when they are left in the actual world?
- 
+- How to build environments that reflects the real time scenarios to train the models?
+- How to integrate concepts of deep learning into robotics to solve real word problems 
 
 
 ### Apart from work
