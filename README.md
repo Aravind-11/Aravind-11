@@ -16,10 +16,6 @@
 - How to integrate concepts of deep learning into robotics to solve real word problems 
 
 
-### Apart from work
-- Auto Racing (I'm a licenced auto racing driver, member at Madras Motorsport Academy)
-- Basketball
-
 
 ## Reach out to me  
 <div align="center">
